@@ -1,1 +1,3 @@
 This is a new document
+
+Change made in try-a-squash-merge
