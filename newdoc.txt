@@ -3,3 +3,5 @@ This is a new document
 Change made in main
 
 Change made in try-a-squash-merge
+
+consolidate commits 2
