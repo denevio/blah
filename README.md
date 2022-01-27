@@ -16,4 +16,4 @@ squash merge change 2
 
 consolidate commits 1
 
-consolidate commits 3
+consolidate commits 3dd
